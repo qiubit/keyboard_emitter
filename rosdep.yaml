@@ -1,4 +1,0 @@
-python-pynput:
- ubuntu:
-  pip:
-    packages: [pynput]
